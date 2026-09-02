@@ -1551,12 +1551,11 @@
 
             <div class="section-title">
 
-                <h2>Trending Products</h2>
+                <h2>Popular Products</h2>
 
-                <p>
-                    Popular products our customers love
-                </p>
-
+<p>
+    Customer favorites picked just for you
+</p>
             </div>
 
         </div>
