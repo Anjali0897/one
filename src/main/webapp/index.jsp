@@ -1410,21 +1410,19 @@
 
 <section class="hero container">
 
-    <div class="hero-content">
+<div class="hero-label">
+    <i class="fa-solid fa-tag"></i>
+    Special Offer — 20% OFF
+</div>
 
-        <div class="hero-label">
-            <i class="fa-solid fa-sparkles"></i>
-            New Season Collection
-        </div>
+<h1>
+    Everything you need, all in one place.
+</h1>
 
-        <h1>
-            Discover products you'll love.
-        </h1>
-
-        <p>
-            Shop the latest fashion, technology and accessories
-            with exclusive deals and fast delivery.
-        </p>
+<p>
+    Discover quality products, amazing prices and
+    exclusive offers with fast and reliable delivery.
+</p>
 
         <div class="hero-buttons">
 
